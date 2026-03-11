@@ -1,0 +1,26 @@
+.top-banner {
+    background: #1a1a1a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 12px 20px;
+}
+
+.top-banner p {
+    color: white;
+    margin: 0;
+}
+
+.banner-btn {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 6px 16px;
+    border-radius: 6px;
+}
+
+.banner-btn:hover {
+    background: white;
+    color: #1a1a1a;
+}
