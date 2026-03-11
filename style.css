@@ -1,26 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500; 
+}
+
 .top-banner {
     background: #1a1a1a;
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 20px;
-    padding: 12px 20px;
+    gap: 30px;
+    padding: 9px 20px;
+    font-size: 16px;
+    letter-spacing: 1px;
 }
 
 .top-banner p {
-    color: white;
+    color: #F5F8FB;
     margin: 0;
 }
 
 .banner-btn {
-    color: white;
+    color: #F5F8FB;
     text-decoration: none;
-    border: 1px solid white;
+    border: 1px solid #F5F8FB;
     padding: 6px 16px;
     border-radius: 6px;
 }
 
 .banner-btn:hover {
-    background: white;
+    background: #F5F8FB;
     color: #1a1a1a;
 }
+
+header {
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 26px 16px;
+    margin-left:155px;
+    margin-right: 100px;
+    
+}
+
+.header-logo {
+    width: 155px;
+    height: 48px;
+}
+
+.header-nav {
+   display: flex;
+   gap: 27px;
+   margin-right: 74px;
+   letter-spacing: 1px;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: black;
+}
+
+.header-nav a i {
+    color: #d1d1d1;
+    margin-left: 6px;
+}
+
+.header-nav a:hover i {
+    color: black;
+}
+
+.heaver-nav-badge {
+    color: #F5F8FB;
+    background: #F23AE5;
+    font-size: 11px;
+    border-radius: 3px;
+    padding: 0 4px;
+    margin-right: 4px;
+}
+
+.heaver-nav-badge-mini {
+    color: #F5F8FB;
+    background: #F23AE5;
+    font-size: 11px;
+    border-radius: 3px;
+    padding: 0 4px;
+    margin-top: 12px;
+}
+
+.nav-item {
+    position: relative;
+}  
+
+.dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: -8px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    padding: 10px 0;
+    min-width: 240px;  
+}
+
+.dropdown a {
+    display: block;
+    padding: 10px 20px;
+    color: black;
+}
+
+.dropdown a:hover {
+    background: #f5f5f5;
+}
+
+.nav-item-seruy:hover {
+    color: #1C2022A6;
+    transition: 1s ease;
+}  
+
+.nav-item:hover .dropdown {
+    display: block;
+}
+
+.ambassador-link {
+    display: flex !important;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.header-btns {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header-btns a {
+    color: black;
+    text-decoration: none;
+}
+
+.btn-login {
+    padding: 10px 18px;
+    border: 1px solid white(255, 255, 255);
+    border-radius: 6px;
+    transition: 0.7s ease;
+}
+
+.btn-login:hover {
+    background-color: black;
+    color: #32EFB9;
+}
+
+.btn-signup {
+    background-color: #32EFB9;
+    border: 1px solid #32EFB9 ;
+    border-radius: 6px;
+    padding: 10px 18px;
+}
+
+.btn-signup:hover {
+    color: #32EFB9;
+    background-color: black ;
+    border: 1px solid black;
+}
+
+main {
+
+}
+
+.section1 {
+    background-color: red;
+    padding: 135px;
+    margin: 0px 155px;
+}
+
+.release {
+    background-color: #DDE3E9;
+    font-size: 12px;
+    border: 1px solid white;
+    border-radius: 6px;
+    padding: 6px 20px;
+    margin: 0px 690px 0px 0px;
+}
+
+.release p {
+    display: inline;
+    color: #1C2022A6;
+    margin-left: 2px;
+}
+
+.release a {
+    color: black;
+}
+
+
