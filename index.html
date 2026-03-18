@@ -126,16 +126,33 @@
                 <div class="section4-title">
                     <h2>Penpot is a powerful <span>design platform </span></h2>
                 </div>
-
-                <div class="section4-parallax">
-                    <button class="real-btn-1">
-                        <div class="textInButton">
-                            Interface Design
+                <div class="section44">
+                    <div class="tabs">
+                        <div class="tab active" onclick="switchTab(0)">
+                            <h3>Interface Design</h3>
+                            <p>Flexible layouts, design systems and custom fonts</p>
                         </div>
-                    </button>
-                    <button class="real-btn-2">rewrewe</button>
-                    <button class="real-btn-3">tretre</button>
-                    <button class="real-btn-4">tretre</button>
+                        <div class="tab" onclick="switchTab(1)">
+                            <h3>Prototyping</h3>
+                            <p>Interactive flows, interactions and transitions</p>
+                        </div>
+                        <div class="tab" onclick="switchTab(2)">
+                            <h3>Feedback & share</h3>
+                            <p>All stakeholders stay involved</p>
+                        </div>
+                        <div class="tab" onclick="switchTab(3)">
+                            <h3>Code inspect</h3>
+                            <p>Specs, CSS and HTML/SVG markups</p>
+                        </div>
+                        <a href="">See Design features</a>
+                    </div>
+
+                    <div class="tab-images">
+                        <img src="./image/1.webp" class="tab-image active">
+                        <img src="./image/2.webp" class="tab-image">
+                        <img src="./image/3.webp" class="tab-image">
+                        <img src="./image/4.webp" class="tab-image">
+                    </div>
                 </div>
             </section>
 
@@ -393,6 +410,7 @@
         </footer>
     </div>
 
+    <script src="script.js"></script>
 </body>
 
 </html>

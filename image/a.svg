@@ -1,0 +1,513 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" version="1.1" viewBox="0 0 670 436">
+  <defs>
+    <clipPath id="a" class="frame-clip frame-clip-def">
+      <rect width="670" height="436" x="0" y="0" rx="0" ry="0"/>
+    </clipPath>
+  </defs>
+  <g class="frame-container-wrapper">
+    <g class="frame-container-blur">
+      <g fill="none" class="frame-container-shadows" clip-path="url(#a)">
+        <g class="fills">
+          <rect width="670" height="436" x="0" y="0" fill="#fff" fill-opacity="1" class="frame-background" rx="0" ry="0"/>
+        </g>
+        <g class="frame-children">
+          <g width="653" height="438" fill="#000" class="frame-container-wrapper" font-family="Work Sans" font-style="normal" font-weight="600" rx="0" ry="0" style="src:url(http://localhost:6080/internal/gfonts/font/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiAJpp_c.woff2)format(&quot;woff2&quot;);src:url(http://localhost:6080/internal/gfonts/font/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBiEJpp_c.woff2)format(&quot;woff2&quot;);font-display:block;src:url(http://localhost:6080/internal/gfonts/font/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K5fQBi8Jpg.woff2)format(&quot;woff2&quot;);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD" version="1.1">
+            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                <g class="fills" rx="0" ry="0">
+                  <g class="fills">
+                    <rect width="653" height="438" x="-1" y="-3" fill="none" class="frame-background" rx="10" ry="10"/>
+                  </g>
+                </g>
+                <g class="frame-children" rx="0" ry="0">
+                  <g fill="#000" class="frame-container-wrapper" rx="0" ry="0">
+                    <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                      <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                        <g class="fills" rx="0" ry="0">
+                          <g class="fills">
+                            <rect width="653" height="438" x="-1" y="-3" fill="#fff" fill-opacity="1" class="frame-background" rx="0" ry="0"/>
+                          </g>
+                        </g>
+                        <g class="frame-children" rx="0" ry="0">
+                          <g fill="#000" class="frame-container-wrapper" rx="0" ry="0">
+                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                              <g fill="#000" class="frame-container-shadows" clip-path="url(#b)" rx="0" ry="0">
+                                <defs>
+                                  <clipPath id="b" class="frame-clip frame-clip-def svg-def" transform="translate(-1 -3)">
+                                    <rect width="321" height="62" x="24" y="24" rx="0" ry="0"/>
+                                  </clipPath>
+                                </defs>
+                                <g fill="#000" class="fills" rx="0" ry="0">
+                                  <g class="fills">
+                                    <rect width="321" height="62" x="23" y="21" fill="none" class="frame-background" rx="0" ry="0"/>
+                                  </g>
+                                </g>
+                                <g fill="#000" class="frame-children" rx="0" ry="0">
+                                  <g fill="#000" class="frame-container-wrapper" rx="0" ry="0">
+                                    <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                      <g fill="#000" class="frame-container-shadows" clip-path="url(#c)" rx="0" ry="0">
+                                        <defs>
+                                          <clipPath id="c" class="frame-clip frame-clip-def svg-def" transform="translate(-1 -3)">
+                                            <rect width="321" height="62" x="24" y="24" rx="8" ry="8"/>
+                                          </clipPath>
+                                        </defs>
+                                        <g fill="#000" class="fills" rx="0" ry="0">
+                                          <g class="fills">
+                                            <rect width="321" height="62" x="23" y="21" fill="#f5f8fb" fill-opacity="1" class="frame-background" rx="8" ry="8"/>
+                                          </g>
+                                        </g>
+                                        <g fill="#000" class="frame-children" rx="0" ry="0">
+                                          <g fill="#000" class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="301" height="45" x="35" y="30" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="text-container" rx="0" ry="0">
+                                                    <text x="48" y="69.602" fill="#1c2022" fill-opacity="1" class="fills" direction="ltr" dominant-baseline="ideographic" font-family="Work Sans" font-size="24" font-style="normal" font-weight="600" lengthAdjust="spacingAndGlyphs" letter-spacing="normal" style="text-transform:none;white-space:pre" text-decoration="none solid #1c2022" textLength="276.383" transform="translate(-1 -3)">Personal access tokens</text>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                          <g class="frame-container-wrapper" rx="0" ry="0">
+                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                <g class="fills" rx="0" ry="0">
+                                  <g class="fills">
+                                    <rect width="439" height="259" x="23" y="91" fill="none" class="frame-background" rx="8" ry="8"/>
+                                  </g>
+                                </g>
+                                <g fill="#000" class="frame-children" rx="0" ry="0">
+                                  <g class="frame-container-wrapper" rx="0" ry="0">
+                                    <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                      <g fill="#000" class="frame-container-shadows" clip-path="url(#d)" rx="0" ry="0">
+                                        <defs>
+                                          <clipPath id="d" class="frame-clip frame-clip-def svg-def" transform="translate(-1 -3)">
+                                            <rect width="117" height="259" x="24" y="94" rx="0" ry="0"/>
+                                          </clipPath>
+                                        </defs>
+                                        <g fill="#000" class="fills" rx="0" ry="0">
+                                          <g class="fills">
+                                            <rect width="117" height="259" x="23" y="91" fill="#f5f8fb" fill-opacity="1" class="frame-background" rx="0" ry="0"/>
+                                          </g>
+                                        </g>
+                                        <g fill="#000" class="frame-children" rx="0" ry="0">
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="71" height="10" x="61" y="103" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="10" height="10" x="61" y="103" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="53" height="10" x="79" y="103" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="49" height="10" x="83" y="129" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="10" height="10" x="83" y="129" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="31" height="10" x="101" y="129" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="49" height="10" x="83" y="155" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="10" height="10" x="83" y="155" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="31" height="10" x="101" y="155" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="49" height="10" x="83" y="181" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="10" height="10" x="83" y="181" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                  <g class="fills" rx="0" ry="0">
+                                                    <rect width="31" height="10" x="101" y="181" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="82" height="9" x="50" y="207" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="82" height="10" x="50" y="207" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g fill="#000" class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="90" height="10" x="42" y="232" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g fill="#000" class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="73" height="10" x="59" y="258" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                  <g class="frame-container-wrapper" rx="0" ry="0">
+                                    <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                      <g fill="#000" class="frame-container-shadows" clip-path="url(#e)" rx="0" ry="0">
+                                        <defs>
+                                          <clipPath id="e" class="frame-clip frame-clip-def svg-def" transform="translate(-1 -3)">
+                                            <rect width="197" height="259" x="141" y="94" rx="0" ry="0"/>
+                                          </clipPath>
+                                        </defs>
+                                        <g fill="#000" class="fills" rx="0" ry="0">
+                                          <g class="fills">
+                                            <rect width="197" height="259" x="140" y="91" fill="#f5f8fb" fill-opacity="1" class="frame-background" rx="0" ry="0"/>
+                                          </g>
+                                        </g>
+                                        <g fill="#000" class="frame-children" rx="0" ry="0">
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="152" y="103" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="152" y="103" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="55" height="10" x="152" y="129" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="55" height="10" x="152" y="129" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="82" height="9" x="152" y="155" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="82" height="10" x="152" y="155" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="152" y="180" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="152" y="180" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="152" y="206" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="152" y="206" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="152" y="232" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="152" y="232" fill="#bf98ff" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g fill="#000" class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="152" y="258" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                  <g class="frame-container-wrapper" rx="0" ry="0">
+                                    <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                      <g fill="#000" class="frame-container-shadows" clip-path="url(#f)" rx="0" ry="0">
+                                        <defs>
+                                          <clipPath id="f" class="frame-clip frame-clip-def svg-def" transform="translate(-1 -3)">
+                                            <rect width="264" height="259" x="338" y="94" rx="0" ry="0"/>
+                                          </clipPath>
+                                        </defs>
+                                        <g fill="#000" class="fills" rx="0" ry="0">
+                                          <g class="fills">
+                                            <rect width="264" height="259" x="337" y="91" fill="#f5f8fb" fill-opacity="1" class="frame-background" rx="0" ry="0"/>
+                                          </g>
+                                        </g>
+                                        <g fill="#000" class="frame-children" rx="0" ry="0">
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="53" height="10" x="349" y="103" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="53" height="10" x="349" y="103" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="53" height="10" x="349" y="129" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="53" height="10" x="349" y="129" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="349" y="155" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="349" y="155" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="72" height="10" x="349" y="181" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="72" height="10" x="349" y="181" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="55" height="10" x="349" y="207" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="55" height="10" x="349" y="207" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                          <g class="frame-container-wrapper" rx="0" ry="0">
+                                            <g fill="#000" class="frame-container-blur" rx="0" ry="0">
+                                              <g fill="#000" class="frame-container-shadows" rx="0" ry="0">
+                                                <g class="fills" rx="0" ry="0">
+                                                  <g class="fills">
+                                                    <rect width="56" height="9" x="349" y="233" fill="none" class="frame-background" rx="0" ry="0"/>
+                                                  </g>
+                                                </g>
+                                                <g class="frame-children" rx="0" ry="0">
+                                                  <g fill="#000" class="fills" rx="0" ry="0">
+                                                    <rect width="56" height="10" x="349" y="233" fill="#c6c9d7" fill-opacity="1" class="fills" rx="4" ry="4"/>
+                                                  </g>
+                                                </g>
+                                              </g>
+                                            </g>
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </g>
+                                  </g>
+                                </g>
+                              </g>
+                            </g>
+                          </g>
+                          <g rx="0" ry="0">
+                            <defs>
+                              <pattern id="g" width="330" height="351" x="292" y="86" patternTransform="translate(-1 -3)" patternUnits="userSpaceOnUse">
+                                <image width="330" height="351" opacity="1" preserveAspectRatio="none"/>
+                              </pattern>
+                            </defs>
+                            <g class="fills">
+                              <rect width="330" height="351" x="291" y="83" fill="url(#g)" class="fills" rx="0" ry="0"/>
+                            </g>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <path fill="#14ceca" fill-opacity="1" d="m393.725 270.12 220.17 1.503s27.04-27.393 10.88-59.504c-15.33-30.46-52.564-19.389-52.564-19.389s-4.33-49.691-65.343-50.404c-67.308-.786-69.48 64.047-69.48 64.047s-25.574-6.141-39.8 13.75c-18.026 25.202-3.863 49.998-3.863 49.998" class="fills"/>
+          <g class="strokes">
+            <path fill="none" stroke="#14ceca" stroke-linecap="round" stroke-opacity="1" stroke-width="8.776" d="m393.725 270.12 220.17 1.503s27.04-27.393 10.88-59.504c-15.33-30.46-52.564-19.389-52.564-19.389s-4.33-49.691-65.343-50.404c-67.308-.786-69.48 64.047-69.48 64.047s-25.574-6.141-39.8 13.75c-18.026 25.202-3.863 49.998-3.863 49.998" class="stroke-shape"/>
+          </g>
+          <g rx="0" ry="0">
+            <rect width="155" height="127.321" x="275" y="289.679" fill="#fff" fill-opacity="1" class="fills" rx="20.146" ry="20.146"/>
+            <g class="strokes">
+              <rect width="155" height="127.321" x="275" y="289.679" fill="none" stroke="#6911d4" stroke-opacity="1" stroke-width="6.198" class="stroke-shape" rx="20.146" ry="20.146"/>
+            </g>
+            <path fill="#fff" fill-opacity="1" d="M291.348 289.679v-47.902S288.197 187 355.21 187c71.823 0 62.113 56.959 62.113 56.959s.187 4.667-5.752 4.667c-10.988 0-7.695.09-15.956.09-5.28 0-5.043-4.922-5.043-4.922s4.305-31.335-34.125-31.335c-37.136 0-38.14 16.993-38.14 32.314 0 15.32 1.004 44.906 1.004 44.906z" class="fills"/>
+            <g class="strokes">
+              <path fill="none" stroke="#6911d4" stroke-opacity="1" stroke-width="6.198" d="M291.348 289.679v-47.902S288.197 187 355.21 187c71.823 0 62.113 56.959 62.113 56.959s.187 4.667-5.752 4.667c-10.988 0-7.695.09-15.956.09-5.28 0-5.043-4.922-5.043-4.922s4.305-31.335-34.125-31.335c-37.136 0-38.14 16.993-38.14 32.314 0 15.32 1.004 44.906 1.004 44.906h-27.963" class="stroke-shape"/>
+            </g>
+            <path fill="#6911d4" fill-opacity="1" d="m340.484 356.487-8.379 35.87h44.869l-8.499-36.381c4.77-4.337 7.797-10.802 7.797-18.019 0-13.045-9.895-23.636-22.083-23.636-12.189 0-22.084 10.591-22.084 23.636 0 7.506 3.276 14.199 8.38 18.53" class="fills"/>
+          </g>
+          <path d="M529 159s1.176-23.707-7.82-34.832c-9.002-11.124-28.18-9.667-28.18-9.667s19.178 1.455 28.18-9.67C530.176 93.707 529 70 529 70s-1.18 23.707 7.822 34.83c9 11.126 28.178 9.67 28.178 9.67s-19.178-1.456-28.178 9.668C527.82 135.293 529 159 529 159" class="fills" clip-rule="evenodd"/>
+          <g fill-rule="nonzero" stroke-linejoin="round" stroke-miterlimit="10" class="strokes" clip-rule="evenodd">
+            <path fill="none" stroke="#151035" stroke-linecap="round" stroke-opacity="1" stroke-width="5.031" d="M529 159s1.176-23.707-7.82-34.832c-9.002-11.124-28.18-9.667-28.18-9.667s19.178 1.455 28.18-9.67C530.176 93.707 529 70 529 70s-1.18 23.707 7.822 34.83c9 11.126 28.178 9.67 28.178 9.67s-19.178-1.456-28.178 9.668C527.82 135.293 529 159 529 159" class="stroke-shape"/>
+          </g>
+          <path d="M575 189s.85-17.313-5.648-25.438C562.852 155.437 549 156.5 549 156.5s13.852 1.062 20.352-7.063C575.85 141.314 575 124 575 124s-.852 17.314 5.648 25.438c6.5 8.125 20.352 7.063 20.352 7.063s-13.852-1.064-20.352 7.06C574.148 171.688 575 189 575 189" class="fills" clip-rule="evenodd"/>
+          <g fill-rule="nonzero" stroke-linejoin="round" stroke-miterlimit="10" class="strokes" clip-rule="evenodd">
+            <path fill="none" stroke="#151035" stroke-linecap="round" stroke-opacity="1" stroke-width="5.031" d="M575 189s.85-17.313-5.648-25.438C562.852 155.437 549 156.5 549 156.5s13.852 1.062 20.352-7.063C575.85 141.314 575 124 575 124s-.852 17.314 5.648 25.438c6.5 8.125 20.352 7.063 20.352 7.063s-13.852-1.064-20.352 7.06C574.148 171.688 575 189 575 189" class="stroke-shape"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

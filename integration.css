@@ -43,3 +43,150 @@
     width: 488px;
     height: 368px;
 }
+
+.optionDiv {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.optionDiv h2 {
+    font-size: 48px;
+    color: black;
+    font-weight: 700;
+}
+
+.optionDivTop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 130px;
+}
+
+.optionDivTopText {
+    max-width: 550px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.optionDivTopText h3 {
+    font-size: 32px;
+    color: black;
+    font-weight: 700;
+}
+
+.optionDivTopText p {
+    font-size: 20px;
+    color: #1C2022;
+    line-height: 1.5;
+}
+
+.optionDivTopText a {
+    border: 1px solid black;
+    background-color: white;
+    text-decoration: none;
+    color: #1C2022;
+    border-radius: 8px;
+    align-self: flex-start;
+    padding: 12px;
+}
+
+.optionDivTopText a:hover {
+    background-color: black;
+    color: white;
+}
+
+.optionDivTop img {
+    width: 450px;
+    height: 281px;
+    border-radius: 16px;
+}
+
+.carton {
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+}
+
+.carton img {
+    width: 307px;
+    height: 200px;
+}
+
+.karton {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 307px;
+    margin-bottom: 100px;
+}
+
+.karton h3 {
+    font-size: 32px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+
+.karton p {
+    font-size: 18px;
+    color: #1C2022;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.integrate1 {
+    display: flex;
+    justify-content: center;
+    margin: 80px 0px;
+}
+
+.integrate {
+    font-size: 48px;
+    color: black;
+    font-weight: 700;
+}
+
+.raspologat {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.palaha {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 20px;
+    border: 2px solid rgb(220, 43, 220);
+    border-radius: 8px;
+    padding: 0px 10px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.palaha h3 {
+    font-size: 28px;
+    color: #1C2022;
+    font-weight: 700;
+}
+
+.palaha p {
+    font-size: 16px;
+    color: #1C2022;
+}
+
+.palaha a {
+    text-decoration: none;
+    color: #151035;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 2px;
+}
+
+.palaha a:hover {
+    border-bottom: 2px solid #32EFB9;
+    padding-bottom: 2px;
+    align-self: flex-start;
+}
