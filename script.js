@@ -5,3 +5,4 @@ function switchTab(index) {
     document.querySelectorAll('.tab')[index].classList.add('active');
     document.querySelectorAll('.tab-image')[index].classList.add('active');
 }
+
