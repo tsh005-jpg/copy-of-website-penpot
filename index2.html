@@ -12,73 +12,71 @@
 </head>
 
 <body>
-    <div class="wrapper">
-        <header>
-            <div class="header-logo">
-                <a href=""> <img src=".\image\penpot-logo.svg" alt=""> </a>
+    <header>
+        <div class="header-logo">
+            <a href=""> <img src=".\image\penpot-logo.svg" alt=""> </a>
+        </div>
+
+        <nav class="header-nav">
+            <div class="nav-item">
+                <a style class="nav-item-seruy" href="">Product <i class="fa-solid fa-chevron-down"></i></a>
+                <div class="dropdown">
+                    <a href="">Design</a>
+                    <a href="">Code</a>
+                    <a href="">Collaboration</a>
+                </div>
             </div>
-
-            <nav class="header-nav">
-                <div class="nav-item">
-                    <a style class="nav-item-seruy" href="">Product <i class="fa-solid fa-chevron-down"></i></a>
-                    <div class="dropdown">
-                        <a href="">Design</a>
-                        <a href="">Code</a>
-                        <a href="">Collaboration</a>
-                    </div>
+            <div class="nav-item">
+                <a href="" class="nav-item-seruy">Developers <i class="fa-solid fa-chevron-down"></i></a>
+                <div class="dropdown">
+                    <a href="">Self-host</a>
+                    <a href="">Integration & API</a>
+                    <a href="">Technical Guide</a>
+                    <a href="">Changelog</a>
                 </div>
-                <div class="nav-item">
-                    <a href="" class="nav-item-seruy">Developers <i class="fa-solid fa-chevron-down"></i></a>
-                    <div class="dropdown">
-                        <a href="">Self-host</a>
-                        <a href="">Integration & API</a>
-                        <a href="">Technical Guide</a>
-                        <a href="">Changelog</a>
-                    </div>
-                </div>
-                <div class="nav-item">
-                    <a href="" class="nav-item-seruy">Community <span class="heaver-nav-badge">NEW</span> <i
-                            class="fa-solid fa-chevron-down"></i></a>
-                    <div class="dropdown">
-                        <a href="">Community space</a>
-                        <a href="">Wall of love</a>
-                        <a href="">Blog</a>
-                        <a href="">Penpost Fest</a>
-                        <a href="" class="nav-item-seruy ambassador-link">
-                            <div>
-                                Ambassador
-                                <br>
-                                program
-                            </div>
-                            <span class="heaver-nav-badge-mini">NEW</span>
-                        </a>
-                    </div>
-                </div>
-                <div class="nav-item">
-                    <a href="" class="nav-item-seruy">Resources <i class="fa-solid fa-chevron-down"></i></a>
-                    <div class="dropdown">
-                        <a href="">Design</a>
-                        <a href="">Code</a>
-                        <a href="">Collaboration</a>
-                    </div>
-                </div>
-                <a href="">Pricing</a>
-
-            </nav>
-
-            <div class="header-btns">
-                <a href="" class="btn-login">Log in</a>
-                <a href="" class="btn-signup">Sign up for free</a>
             </div>
-
-            <div class="burger">
-                <span></span>
-                <span></span>
-                <span></span>
+            <div class="nav-item">
+                <a href="" class="nav-item-seruy">Community <span class="heaver-nav-badge">NEW</span> <i
+                        class="fa-solid fa-chevron-down"></i></a>
+                <div class="dropdown">
+                    <a href="">Community space</a>
+                    <a href="">Wall of love</a>
+                    <a href="">Blog</a>
+                    <a href="">Penpost Fest</a>
+                    <a href="" class="nav-item-seruy ambassador-link">
+                        <div>
+                            Ambassador
+                            <br>
+                            program
+                        </div>
+                        <span class="heaver-nav-badge-mini">NEW</span>
+                    </a>
+                </div>
             </div>
-        </header>
+            <div class="nav-item">
+                <a href="" class="nav-item-seruy">Resources <i class="fa-solid fa-chevron-down"></i></a>
+                <div class="dropdown">
+                    <a href="">Design</a>
+                    <a href="">Code</a>
+                    <a href="">Collaboration</a>
+                </div>
+            </div>
+            <a href="">Pricing</a>
 
-    </div>
+        </nav>
+
+        <div class="header-btns">
+            <a href="" class="btn-login">Log in</a>
+            <a href="" class="btn-signup">Sign up for free</a>
+        </div>
+
+        <div class="burger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+    </header>
 
 
     <main>
@@ -309,6 +307,55 @@
 
         </footer>
     </div>
+
+    <div class="mobile-overlay"></div>
+    <div class="mobile-menu">
+        <button class="mobile-menu-close">&times;</button>
+
+        <div class="mobile-menu-section">
+            <span class="mobile-menu-label">PRODUCT</span>
+            <a href="">Design</a>
+            <a href="">Code</a>
+            <a href="">Collaboration</a>
+            <a href="">Pricing</a>
+        </div>
+
+        <div class="mobile-menu-section">
+            <span class="mobile-menu-label">DEVELOPERS</span>
+            <a href="">Self-host</a>
+            <a href="">Integrations & API</a>
+            <a href="">Technical Guide</a>
+            <a href="">Changelog</a>
+        </div>
+
+        <div class="mobile-menu-section">
+            <span class="mobile-menu-label">COMMUNITY</span>
+            <a href="">Community Space</a>
+            <a href="">Wall of love</a>
+            <a href="">Blog</a>
+            <a href="">Penpot Fest</a>
+            <a href="">Ambassador Program</a>
+        </div>
+
+        <div class="mobile-menu-section">
+            <span class="mobile-menu-label">RESOURCES</span>
+            <a href="">Penpot UI Course <span class="heaver-nav-badge">NEW</span></a>
+            <a href="">Learning Center</a>
+            <a href="">Plugins</a>
+            <a href="">Libraries & templates</a>
+            <a href="">Tutorials</a>
+            <a href="">Dev Diaries</a>
+            <a href="">Help Center</a>
+        </div>
+
+        <div class="mobile-menu-buttons">
+            <a href="" class="mobile-signin">Sign in</a>
+            <a href="" class="mobile-contact">Contact Sales</a>
+            <a href="" class="mobile-signup">Sign up for free</a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 
 </body>
 
